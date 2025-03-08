@@ -13,8 +13,6 @@ Welcome to my GitHub profile! I'm **Chirag Sehgal**, a passionate learner and de
 
 ### 🔭 I’m currently working on:
 - **RDBMS Project**: Developing an advanced database management system for efficient data handling and querying.
-- **Smart India Hackathon 2024**: Creating an interactive job and internship platform for the Technical Education Department.
-- Designing and implementing a **16-bit register in Verilog** for a custom processor architecture.
 
 ### 💬 Ask me about:
 - **DSA concepts**, **MIPS programming**, or **machine learning workflows**.
@@ -22,7 +20,7 @@ Welcome to my GitHub profile! I'm **Chirag Sehgal**, a passionate learner and de
 - **Verilog projects** for real-life applications like smart irrigation or traffic light systems.
 
 ### 📫 How to reach me:
-- Email: **chiragsehgal@example.com**  
+- Email: **chiragsehgal113@gmail.com**  
 - LinkedIn: [Chirag Sehgal](https://linkedin.com/in/chiragsehgal)  
 - GitHub: You're already here! 😊  
 
