@@ -21,7 +21,7 @@ Welcome to my GitHub profile! I'm **Chirag Sehgal**, a passionate learner and de
 
 ### 📫 How to reach me:
 - Email: **chiragsehgal113@gmail.com**  
-- LinkedIn: [Chirag Sehgal](https://linkedin.com/in/chiragsehgal)  
+- LinkedIn: [Chirag Sehgal](https://www.linkedin.com/in/chirag-sehgal-212371311/)  
 - GitHub: You're already here! 😊  
 
 ### 😄 Pronouns:
